@@ -1,0 +1,3 @@
+D:/CLionProjet/Date/cmake-build-debug/CMakeFiles/Date.dir
+D:/CLionProjet/Date/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjet/Date/cmake-build-debug/CMakeFiles/rebuild_cache.dir
